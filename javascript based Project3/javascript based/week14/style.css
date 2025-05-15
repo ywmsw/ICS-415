@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
+}
+
+h1 {
+  margin-top: 20px;
+  font-size: 24px;
+}
+
+#canvas-holder {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+canvas {
+  border: 1px solid #ccc;
+  background-color: white;
+}
+
+.buttons {
+  margin: 10px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 15px;
+  font-size: 14px;
+  cursor: pointer;
+}

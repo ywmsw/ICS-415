@@ -1,0 +1,25 @@
+{
+  "resolution": {
+    "width": 1280,
+    "height": 720
+  },
+  "controls": {
+    "moveForward": "W",
+    "moveBackward": "S",
+    "moveLeft": "A",
+    "moveRight": "D",
+    "jump": "SPACE",
+    "destroyBlock": "LEFT_MOUSE",
+    "placeBlock": "RIGHT_MOUSE"
+  },
+  "graphics": {
+    "fullscreen": false,
+    "vSync": true,
+    "renderDistance": 16
+  },
+  "audio": {
+    "masterVolume": 1.0,
+    "musicVolume": 0.5,
+    "effectsVolume": 0.7
+  }
+}
